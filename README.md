@@ -1,0 +1,2 @@
+# autoinstal
+debian7
